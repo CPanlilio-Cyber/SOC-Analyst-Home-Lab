@@ -18,13 +18,13 @@ Ubuntu Attacker → Windows Endpoint → Sysmon Logging → Splunk SIEM
 * Sysmon
 * Splunk
 
-## Skills Demonstrated
+## Cybersecurity Skills Demonstrated
 
-Security monitoring
-SIEM log analysis
+SIEM monitoring
+Endpoint log analysis
 Threat detection
 Incident investigation
-Endpoint logging
+Virtualization environments
 Security documentation
 
 ## Attack Simulation
