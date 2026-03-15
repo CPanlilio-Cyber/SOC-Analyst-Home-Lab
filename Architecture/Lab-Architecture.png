@@ -1,0 +1,10 @@
+Ubuntu Attacker
+       │
+       ▼
+Windows Endpoint
+       │
+       ▼
+Sysmon Logs
+       │
+       ▼
+Splunk SIEM
